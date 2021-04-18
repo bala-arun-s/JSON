@@ -1,27 +1,27 @@
 [{
   "id": "1",
-  "eventName": "a",
+  "eventName": "event name 1",
   "liveOrRecord": "b",
   "date": "c",
   "time": "d"
 },
 {
   "id": "2",
-  "eventName": "aa",
+  "eventName": "event name 2",
   "liveOrRecord": "bb",
   "date": "cc",
   "time": "dd"
 },
 {
   "id": "3",
-  "eventName": "aaa",
+  "eventName": "event name 3",
   "liveOrRecord": "bbb",
   "date": "ccc",
   "time": "ddd"
 },
 {
   "id": "4",
-  "eventName": "aaaa",
+  "eventName": "event name 4",
   "liveOrRecord": "bbbb",
   "date": "cccc",
   "time": "dddd"
