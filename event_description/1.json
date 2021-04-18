@@ -1,3 +1,20 @@
+[{
+  "type": "headLine",
+  "object": {
+    "headLine": "Headline 12"
+  }
+},
 {
-  "event_description": "sssssssssssssssssssssssssss"
-}
+  "type":"avatar",
+  "object":{
+    "imageUrl": "http url in",
+    "name": "bala arun"
+  }
+},
+{
+  "type":"avatar",
+  "object":{
+    "imageUrl": "xxxxxx",
+    "name": "xxxxxxxxxxala arun"
+  }
+}]
