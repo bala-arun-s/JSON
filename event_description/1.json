@@ -14,27 +14,31 @@
   "type":"avatar",
   "object":{
     "imageUrl": "https://nec.edu.in/wp-content/uploads/2018/06/Dr.A.Shenbagavalli.jpg",
-    "name": "Dr.A.Shenbagavalli"
+    "name": "Dr.A.Shenbagavalli",
+    "about": "Professor & Head"
   }
 },
 {
   "type":"avatar",
   "object":{
     "imageUrl": "https://nec.edu.in/wp-content/uploads/2018/06/ECET020.jpg",
-    "name": "Mr.K.Subramanian"
+    "name": "Mr.K.Subramanian",
+    "about": "ASSISTANT PROFESSOR (SENIOR GRADE)"
   }
 },
 {
   "type":"avatar",
   "object":{
     "imageUrl": "https://nec.edu.in/wp-content/uploads/2020/02/vishwalakshmi_ece.png",
-    "name": "Ms S.Viswalakshmi"
+    "name": "Ms S.Viswalakshmi",
+    "about": "ADJUNCT FACULTY"
   }
 },
 {
   "type":"avatar",
   "object":{
     "imageUrl": "https://nec.edu.in/wp-content/uploads/2018/06/ECET012.jpg",
-    "name": "Dr.K.J.Prasanna Venkatesan"
+    "name": "Dr.K.J.Prasanna Venkatesan",
+    "about": "ASSISTANT PROFESSOR (SENIOR GRADE)"
   }
 }]
