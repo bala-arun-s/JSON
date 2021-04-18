@@ -1,4 +1,10 @@
 [{
+  "type": "image",
+  "object": {
+    "imageUrl": "https://nec.edu.in/wp-content/uploads/2018/09/2X5A9912.jpg"
+  }
+},
+{
   "type": "headLine_1",
   "object": {
     "headLine_1": "Headline 12"
