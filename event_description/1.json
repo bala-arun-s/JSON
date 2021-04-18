@@ -7,14 +7,28 @@
 {
   "type":"avatar",
   "object":{
-    "imageUrl": "http url in",
-    "name": "bala arun"
+    "imageUrl": "https://nec.edu.in/wp-content/uploads/2018/06/Dr.A.Shenbagavalli.jpg",
+    "name": "Dr.A.Shenbagavalli"
   }
 },
 {
   "type":"avatar",
   "object":{
-    "imageUrl": "xxxxxx",
-    "name": "xxxxxxxxxxala arun"
+    "imageUrl": "https://nec.edu.in/wp-content/uploads/2018/06/ECET020.jpg",
+    "name": "Mr.K.Subramanian"
+  }
+},
+{
+  "type":"avatar",
+  "object":{
+    "imageUrl": "https://nec.edu.in/wp-content/uploads/2020/02/vishwalakshmi_ece.png",
+    "name": "Ms S.Viswalakshmi"
+  }
+},
+{
+  "type":"avatar",
+  "object":{
+    "imageUrl": "https://nec.edu.in/wp-content/uploads/2018/06/ECET012.jpg",
+    "name": "Dr.K.J.Prasanna Venkatesan"
   }
 }]
